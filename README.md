@@ -1,5 +1,5 @@
 # website-chatbot
-A chatbot powered with Langchain (2024) that chat with given url
+A Langchain (2024)-powered chatbot capable of engaging in conversations based on provided URL
 
 ---
 
